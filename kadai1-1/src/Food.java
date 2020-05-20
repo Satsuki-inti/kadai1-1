@@ -8,6 +8,7 @@ public class Food {
 		System.out.println("理由：食事にもなって、おやつにもなる。そしてどんな食材にも合うから。");
 		
 		System.out.println("パンは最近全然食べないな。");
+		System.out.println("２回目の練習");
 
 	}
 
